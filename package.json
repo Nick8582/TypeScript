@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "1. 05.10.2022 - Начало изучение языка",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick8582/TypeScript.git"
+  },
+  "author": "Potapov Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick8582/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Nick8582/TypeScript#readme",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
