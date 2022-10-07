@@ -37,6 +37,6 @@ console.log(vehicle.color);
 // vehicle.drive();
 // vehicle.stop();
 
-const car = new Car('silver');
+const car = new Car(4, 'silver');
 // car.startDrivingProcess();
 // car.stop();
